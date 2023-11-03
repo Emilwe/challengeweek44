@@ -1,0 +1,22 @@
+img{
+    width: 100px;
+    height: 400px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.container *{
+    width: 250px;
+    padding: 5px 40px;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+
+.middle{
+    padding-top: 100px;
+}
